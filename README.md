@@ -16,3 +16,8 @@ Practica 02
 Practica 03
 --------------------
 + Ajuste de Modelos (Clasificacion y Regresion)
+
+Practica 04
+--------------------
++ Ajuste de Modelos (Clasificacion)
++ SVM + Random Forest
